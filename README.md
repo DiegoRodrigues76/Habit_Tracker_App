@@ -2,15 +2,13 @@
 
 ## Visão Geral
 
-O **Habit Tracker** é um aplicativo desenvolvido com o framework Flutter e a linguagem Dart, projetado para ajudar os usuários a monitorar e gerenciar seus hábitos e tarefas diárias de maneira eficiente. O aplicativo permite que os usuários criem listas de tarefas, definam metas diárias, semanais ou mensais e acompanhem seu progresso ao longo do tempo.
+O **Habit Tracker** é um aplicativo desenvolvido com o framework Flutter e a linguagem Dart, projetado para ajudar os usuários a monitorar e gerenciar seus hábitos e tarefas diárias de maneira eficiente. O aplicativo permite que os usuários criem listas de tarefas e acompanhem seu progresso ao longo do tempo.
 
 ## Funcionalidades
 
 - **Criação de Tarefas:** Permite aos usuários adicionar, editar e excluir tarefas.
 - **Monitoramento de Hábitos:** Acompanhe a frequência com que os hábitos são cumpridos.
-- **Metas Personalizadas:** Defina metas específicas para hábitos e tarefas.
-- **Notificações:** Lembretes para ajudar os usuários a manterem-se no caminho certo.
-- **Interface Intuitiva:** Design simples e fácil de usar, otimizado para uma experiência de usuário agradável.
+- **Interface Minimalista:** Design simples e fácil de usar, otimizado para uma experiência de usuário agradável.
 
 ## Tecnologias Utilizadas
 
