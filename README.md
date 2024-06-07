@@ -45,10 +45,10 @@ O **Habit Tracker** é um aplicativo desenvolvido com o framework Flutter e a li
 
 - **lib/**: Contém o código fonte do aplicativo.
   - **main.dart**: Arquivo principal que inicia o aplicativo.
-  - **screens/**: Contém as diferentes telas do aplicativo.
-  - **widgets/**: Contém widgets reutilizáveis.
-  - **models/**: Contém as classes de modelo para tarefas e hábitos.
-  - **services/**: Contém a lógica de negócios e comunicação com a base de dados (se aplicável).
+  - **pages/**: Contém a tela principal do aplicativo.
+  - **data/**: Contém a aplicação do banco de dados e o consumo da API.
+  - **datetime/**: Contém as funções que lidam com a formatação de datas.
+  - **components/**: Contém widgets responsáveis na cosntrução da interface de usuário.
 
 ## Contribuição
 
