@@ -81,7 +81,7 @@ Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo [LIC
   - **E-mail:** ynaralopes@outlook.com
   - **Matrícula:** 01674673
 
-- **Diego Henrique Rodrigues**
+- **Diego Rodrigues**
   - **E-mail:** diegohenriquer.76@gmail.com
   - **Matrícula:** 01650828
 
