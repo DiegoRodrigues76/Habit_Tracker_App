@@ -28,11 +28,11 @@ O **Habit Tracker** é um aplicativo desenvolvido com o framework Flutter e a li
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/seu-usuario/habit-tracker.git
+   git clone https://github.com/DiegoRodrigues76/Habit_Tracker_App.git
    ```
 2. **Navegue até o diretório do projeto:**
    ```sh
-   cd habit-tracker
+   cd Habit_Tracker_App
    ```
 3. **Instale as dependências:**
    ```sh
